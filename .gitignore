@@ -6,12 +6,3 @@
 .vscode/ipch
 compile_commands.json
 .cache
-
-# Firmware Testing Code (Hardware Release Only)
-src/
-include/
-lib/
-test/
-web/
-platformio.ini
-README-template.md

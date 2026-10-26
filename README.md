@@ -123,9 +123,7 @@ The electrical schematic is provided in vector PDF format and high-resolution PN
   * Fully featured 3D CAD model suitable for CAD designs.
 
 ### 4. PCB Fabrication & Gerbers
-
-Fabrication parameters recommended for JLCPCB, PCBWay, or OSH Park:
-
+There are 2 versions `5050-v1.0` and `5050-v1.1`.
 * **Directory**: [`gerbers/`](gerbers/)
 * **Layers**: 2 Layers
 * **PCB Thickness**: 1.6 mm
